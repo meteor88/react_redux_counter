@@ -3,7 +3,7 @@
 - 자세한 소스 설명내용은 출처 URL 을 참조해주시기 바랍니다. 
 
 ## 실행결과
-> https://code.sdsdev.co.kr/pages/Yooseong/react_redux_counter/
+
 
 ## 클론이후 실행방법
 1) yarn install
