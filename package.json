@@ -16,7 +16,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://code.sdsdev.co.kr/pages/Yooseong/react_redux_counter/"
+  "homepage": "http://meteor88.github.io/react_redux_counter/"
 }

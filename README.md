@@ -9,6 +9,6 @@
 1) yarn install
 2) yarn start
 
-## 출처
+## 소스작성 출처
 > https://velopert.gitbooks.io/react-redux/content/1-0-basic-counter.html
 
